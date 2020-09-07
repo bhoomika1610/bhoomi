@@ -1,1 +1,7 @@
-# terrorism_analysis
+# Terrorism_analysis
+A Comprehensive and Analytical User Interface Application developed using UI library named Dash in Python. It provides detailed insights on worldwide terrorist attacks from the year 1970 to 2018. The application is largely bifurcated into two sections (via tabs), the first section including dynamic map tool visualization and the second section includes dynamic visualization via stacked area charts (plotly). The application is feasible enough as it makes further bifurcations under each of the visualizations that provide separate information about attacks taking place worldwide v/s attacks specific to India only. Dropdowns and filters (in the form of range sliders and input filed) are provided as an additional functionality to the user so as to get information specifically for a range of years along with selective month(s), day(s), region(s), country(s), state(s), city(s), attack type(s), terrorist organization(s), type of attack(s) and class of victim(s), weapon(s) used, etc. Following concepts are largely deployed in this project-
+1.) Python Fundamentals- Object Oriented Programming, Use of User-Defined functions and conditional statements
+2.) Python Libraries- 
+Pandas- Data Wrangling, Manipulation and File Conversions
+Dash- Use of Dash and HTML components for UI Layout Development, Use of decorators and using callbacks for event handling for application dynamicity
+3.) HTML and Cascading Style Sheets fundamentals (inline)
